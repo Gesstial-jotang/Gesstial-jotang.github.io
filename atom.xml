@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Gesstial-jotang.github.io</id>
     <title>Gesstial-jotang的小窝</title>
-    <updated>2020-10-20T05:12:29.161Z</updated>
+    <updated>2020-10-20T05:36:34.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Gesstial-jotang.github.io"/>
     <link rel="self" href="https://Gesstial-jotang.github.io/atom.xml"/>
@@ -11,23 +11,38 @@
     <icon>https://Gesstial-jotang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gesstial-jotang的小窝</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://Gesstial-jotang.github.io/post/about/</id>
+        <link href="https://Gesstial-jotang.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<h2 id="联系我呀">📬 联系我呀</h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
         <id>https://Gesstial-jotang.github.io/post/hello-gridea/</id>
         <link href="https://Gesstial-jotang.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
+        <content type="html"><![CDATA[<!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
 <a href="http://fehey.com/">示例网站</a></p>
 <h2 id="特性">特性👇</h2>
 <p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
 <p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<blockquote>
+<p>这是我第一次尝试搭建博客<br>
+在使用网上教程，利用hexo搭建博客的时候遇到了许多问题，所以还是最终选择了最简便的方式——使用Gridea直接搭建一个博客。<br>
+虽然现在博客尚不完善，但是在今后的日子里我会更加努力学习，将自己的博客搭建成自己想要的样子。</p>
+</blockquote>
 <p>🏷️  你可以对文章进行标签分组</p>
 <p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
 <p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
